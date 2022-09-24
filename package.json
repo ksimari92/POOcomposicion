@@ -1,0 +1,12 @@
+{
+    "name": "ejemploencapsulamiento",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "convertir": "tsc Auto.ts",
+        "ejecutar": "node Auto.js"
+    },
+    "author": "",
+    "license": "ISC"
+}
